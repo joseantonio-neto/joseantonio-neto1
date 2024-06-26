@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/otenbr)
+![Image](https://raw.githubusercontent.com/otenbr/otenbr/main/github-metrics.svg)
