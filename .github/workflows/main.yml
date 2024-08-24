@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: otenbr
+          user: joseantonio-neto
           template: classic
           repositories: 800
           base: header, activity, community, repositories, metadata
